@@ -11,13 +11,6 @@ let pessoa;
 pessoa = { nome: 'Stiven', idade: 20, sexo: 'Masculino' };
 console.log(pessoa);
 // -> Functions
-let num1 = 20;
-let num2 = 30;
-console.log(soma(num1, num2));
-function soma(num1, num2) {
-    return num1 + num2;
-}
-;
 function multiplica(num1, num2) {
     return num1 + num2;
 }
