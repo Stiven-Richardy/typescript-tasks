@@ -25,3 +25,4 @@ function criarPessoa(...nome) {
     return [...nome];
 }
 console.log(criarPessoa('Stiven Richardy', 20, 'Masculino', 'Estagiário'));
+//# sourceMappingURL=tupleType.js.map

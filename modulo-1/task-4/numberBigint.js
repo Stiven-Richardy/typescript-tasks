@@ -11,3 +11,4 @@ console.log('Number - Binário: ', num4);
 // -> Bigint
 let big1 = 9007199254740991n;
 console.log('Bigint - Ponto Flutuante: ', big1);
+//# sourceMappingURL=numberBigint.js.map

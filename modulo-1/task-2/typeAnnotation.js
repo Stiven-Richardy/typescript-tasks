@@ -16,3 +16,4 @@ function multiplica(num1, num2) {
 }
 ;
 console.log(multiplica(10, 5));
+//# sourceMappingURL=typeAnnotation.js.map

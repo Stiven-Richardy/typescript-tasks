@@ -21,3 +21,4 @@ function frutasListadas(frutas) {
     }
 }
 frutasListadas(frutas2);
+//# sourceMappingURL=arrayType.js.map

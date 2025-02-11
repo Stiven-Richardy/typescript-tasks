@@ -22,3 +22,4 @@ else {
     verificaIdade = false;
 }
 console.log('É maior de idade?', verificaIdade);
+//# sourceMappingURL=typeBoolean.js.map

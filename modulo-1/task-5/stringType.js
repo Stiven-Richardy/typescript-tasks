@@ -8,3 +8,4 @@ console.log(nomeEmpresa);
 // -> String: Template literals
 let templateLiterals = `Funcionário: ${nomeCompleto}, Empresa: ${nomeEmpresa}`;
 console.log(templateLiterals);
+//# sourceMappingURL=stringType.js.map
